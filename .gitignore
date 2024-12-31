@@ -37,6 +37,7 @@ auth.json
 /storage/pail
 /vendor
 # .env
+.env
 .env.backup
 .env.production
 .phpactor.json
